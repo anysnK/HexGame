@@ -1,0 +1,1634 @@
+fileFormatVersion: 2
+guid: d2f4e7f0ba1f71845a43a7051858a67a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5559280438215073974
+    second: barb_0
+  - first:
+      213: 7905208231647058775
+    second: barb_1
+  - first:
+      213: -8368545940880477353
+    second: barb_2
+  - first:
+      213: 6591303289627111620
+    second: barb_3
+  - first:
+      213: 9058457000796457061
+    second: barb_4
+  - first:
+      213: -3311893590650919033
+    second: barb_5
+  - first:
+      213: 7330080841583089997
+    second: barb_6
+  - first:
+      213: 3720872395618020523
+    second: barb_7
+  - first:
+      213: -9205729406467828391
+    second: barb_8
+  - first:
+      213: 2949665135405134275
+    second: barb_9
+  - first:
+      213: -5076747186564517855
+    second: barb_10
+  - first:
+      213: -6400031857169531236
+    second: barb_11
+  - first:
+      213: 4315259887162867680
+    second: barb_12
+  - first:
+      213: -8187052652882993453
+    second: barb_13
+  - first:
+      213: -5750867118849199166
+    second: barb_14
+  - first:
+      213: -1964453106552817003
+    second: barb_15
+  - first:
+      213: -970671726197905272
+    second: barb_16
+  - first:
+      213: 8580003078935851589
+    second: barb_17
+  - first:
+      213: -111298567468010632
+    second: barb_18
+  - first:
+      213: 2602722501741839883
+    second: barb_19
+  - first:
+      213: -4657550641142551563
+    second: barb_20
+  - first:
+      213: 5880991145812384017
+    second: barb_21
+  - first:
+      213: -5141012645260860141
+    second: barb_22
+  - first:
+      213: -2948693387444233434
+    second: barb_23
+  - first:
+      213: -3070879829639290620
+    second: barb_24
+  - first:
+      213: 4338275838570771550
+    second: barb_25
+  - first:
+      213: -7035697865208124221
+    second: barb_26
+  - first:
+      213: -8422601683126805414
+    second: barb_27
+  - first:
+      213: -507562155282918534
+    second: barb_28
+  - first:
+      213: -8081740092114576751
+    second: barb_29
+  - first:
+      213: 259400492267031027
+    second: barb_30
+  - first:
+      213: -92922300840904113
+    second: barb_31
+  - first:
+      213: 6820963808642356614
+    second: barb_32
+  - first:
+      213: 5085873680961265487
+    second: barb_33
+  - first:
+      213: 651937765081047131
+    second: barb_34
+  - first:
+      213: -8278696050597509911
+    second: barb_35
+  - first:
+      213: -1300818003680390254
+    second: barb_36
+  - first:
+      213: -897621676225022844
+    second: barb_37
+  - first:
+      213: 2675571813771616206
+    second: barb_38
+  - first:
+      213: 349502999673659242
+    second: barb_39
+  - first:
+      213: 7370102390138702436
+    second: barb_40
+  - first:
+      213: 4917927009852468437
+    second: barb_41
+  - first:
+      213: -1760869790254008188
+    second: barb_42
+  - first:
+      213: -1411738347156163224
+    second: barb_43
+  - first:
+      213: 1444373890408592444
+    second: barb_44
+  - first:
+      213: 977022292439133351
+    second: barb_45
+  - first:
+      213: 3731770582751326025
+    second: barb_46
+  - first:
+      213: -4664262927348537929
+    second: barb_47
+  - first:
+      213: 5429338971819424506
+    second: barb_48
+  - first:
+      213: 5299496619141388209
+    second: barb_49
+  - first:
+      213: 297542061183452660
+    second: barb_50
+  - first:
+      213: -5063143973045170417
+    second: barb_51
+  - first:
+      213: -5772031152679414923
+    second: barb_52
+  - first:
+      213: 3814075172352886698
+    second: barb_53
+  - first:
+      213: 7378539242851739536
+    second: barb_54
+  - first:
+      213: 2303483989275581376
+    second: barb_0
+  - first:
+      213: 8208533245251719726
+    second: barb_1
+  - first:
+      213: 125763165057079806
+    second: barb_2
+  - first:
+      213: 4749214926621889355
+    second: barb_3
+  - first:
+      213: -957207491929637417
+    second: barb_4
+  - first:
+      213: -6700431479399090376
+    second: barb_5
+  - first:
+      213: -8778356911669577532
+    second: barb_6
+  - first:
+      213: -7417521666569569377
+    second: barb_7
+  - first:
+      213: -8671981214942907119
+    second: barb_8
+  - first:
+      213: -8237157606123991647
+    second: barb_9
+  - first:
+      213: 7493564521548096817
+    second: barb_10
+  - first:
+      213: -3003794503674527760
+    second: barb_11
+  - first:
+      213: 8497561272067533943
+    second: barb_12
+  - first:
+      213: 501178325353110574
+    second: barb_13
+  - first:
+      213: 486615274003845699
+    second: barb_14
+  - first:
+      213: -5877100468258201734
+    second: barb_15
+  - first:
+      213: 3481146924706901468
+    second: barb_16
+  - first:
+      213: 2317550308099202401
+    second: barb_17
+  - first:
+      213: -1823245423675344621
+    second: barb_18
+  - first:
+      213: 4102332810263429043
+    second: barb_19
+  - first:
+      213: -7127270350796238978
+    second: barb_20
+  - first:
+      213: 7759233476419989171
+    second: barb_21
+  - first:
+      213: -5375748715072443517
+    second: barb_22
+  - first:
+      213: 5356502891451227703
+    second: barb_23
+  - first:
+      213: 7700180732425576201
+    second: barb_24
+  - first:
+      213: 292256993770349687
+    second: barb_25
+  - first:
+      213: -7348244945685276
+    second: barb_26
+  - first:
+      213: -7762927509962085888
+    second: barb_27
+  - first:
+      213: 8616527594792684950
+    second: barb_28
+  - first:
+      213: 4158888933956721287
+    second: barb_29
+  - first:
+      213: -2154721395009878796
+    second: barb_30
+  - first:
+      213: 6906594416534772828
+    second: barb_31
+  - first:
+      213: 873839075363473889
+    second: barb_32
+  - first:
+      213: -8764232926370974087
+    second: barb_33
+  - first:
+      213: -555212763068240385
+    second: barb_34
+  - first:
+      213: 4408614143376308046
+    second: barb_35
+  - first:
+      213: -1914433139937223604
+    second: barb_36
+  - first:
+      213: -8686391133698324388
+    second: barb_37
+  - first:
+      213: 7512377260533810675
+    second: barb_38
+  - first:
+      213: -3571281719789435405
+    second: barb_39
+  - first:
+      213: 1550232005574931068
+    second: barb_40
+  - first:
+      213: 28476280331170072
+    second: barb_41
+  - first:
+      213: 350461797999407706
+    second: barb_42
+  - first:
+      213: 9207108625381788721
+    second: barb_43
+  - first:
+      213: -8217629768885534229
+    second: barb_44
+  - first:
+      213: -6172159901796539382
+    second: barb_45
+  - first:
+      213: 3981165639780841197
+    second: barb_46
+  - first:
+      213: 4907467789538489677
+    second: barb_47
+  - first:
+      213: -1786114382361676762
+    second: barb_48
+  - first:
+      213: -1989271942701333955
+    second: barb_49
+  - first:
+      213: 5312056798957889849
+    second: barb_50
+  - first:
+      213: -2922264565286163608
+    second: barb_51
+  - first:
+      213: 6975244932009226656
+    second: barb_52
+  - first:
+      213: 6202474517233930749
+    second: barb_53
+  - first:
+      213: -8635668620321116133
+    second: barb_54
+  - first:
+      213: 1361218301791073544
+    second: barb_55
+  - first:
+      213: 4005071349428928406
+    second: barb_56
+  - first:
+      213: 4757365801462065538
+    second: barb_57
+  - first:
+      213: -4533389312432633975
+    second: barb_58
+  - first:
+      213: 7547650894844637388
+    second: barb_59
+  - first:
+      213: 8450848789604595690
+    second: barb_60
+  - first:
+      213: -386042021483203492
+    second: barb_61
+  - first:
+      213: -5705746068973872850
+    second: barb_62
+  - first:
+      213: 4325671170159704990
+    second: barb_63
+  - first:
+      213: 1912872159616790302
+    second: barb_64
+  - first:
+      213: 8472786952918016857
+    second: barb_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barb_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 252
+        width: 21
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb129edb7e97ff10800000000000000
+      internalID: 2303483989275581376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 253
+        width: 21
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229632fe719ae170800000000000000
+      internalID: 8208533245251719726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 253
+        width: 21
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef95e0baeecceb100800000000000000
+      internalID: 125763165057079806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 252
+        width: 21
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d74730d998e140800000000000000
+      internalID: 4749214926621889355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 252
+        width: 21
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddf03b8bd057b2f0800000000000000
+      internalID: -957207491929637417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 252
+        width: 21
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8377294e1194303a0800000000000000
+      internalID: -6700431479399090376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 253
+        width: 21
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8f65806e20d2680800000000000000
+      internalID: -8778356911669577532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 253
+        width: 21
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7b5e085baf0990800000000000000
+      internalID: -7417521666569569377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 253
+        width: 21
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b778f70fe6a780800000000000000
+      internalID: -8671981214942907119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 253
+        width: 21
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad8210bcccbfad80800000000000000
+      internalID: -8237157606123991647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 252
+        width: 21
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1352850da3d7ef760800000000000000
+      internalID: 7493564521548096817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 193
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff753e40d06056d0800000000000000
+      internalID: -3003794503674527760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 194
+        width: 29
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca3b674f66de570800000000000000
+      internalID: 8497561272067533943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194
+        width: 29
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1cc3180b84f600800000000000000
+      internalID: 501178325353110574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 194
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425745730ec0c600800000000000000
+      internalID: 486615274003845699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 194
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f10382348507ea0800000000000000
+      internalID: -5877100468258201734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd29122fa48f4030800000000000000
+      internalID: 3481146924706901468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d995fe9b7992020800000000000000
+      internalID: 2317550308099202401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 193
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319797772f782b6e0800000000000000
+      internalID: -1823245423675344621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 194
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf7e22b4f96ee830800000000000000
+      internalID: 4102332810263429043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 192
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fcd9ab069d61d90800000000000000
+      internalID: -7127270350796238978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 193
+        width: 29
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be25539cb55eab60800000000000000
+      internalID: 7759233476419989171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b285c86018565b0800000000000000
+      internalID: -5375748715072443517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 135
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9d43fffe165a40800000000000000
+      internalID: 5356502891451227703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f988e24998cda60800000000000000
+      internalID: 7700180732425576201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 136
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7742ec8ff2e4e0400800000000000000
+      internalID: 292256993770349687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 135
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e43a466fc4e5eff0800000000000000
+      internalID: -7348244945685276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 135
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a2a973f8a844490800000000000000
+      internalID: -7762927509962085888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 135
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d08f4f13e049770800000000000000
+      internalID: 8616527594792684950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 135
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a1bc0637757b930800000000000000
+      internalID: 4158888933956721287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 135
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48084be44e812e0800000000000000
+      internalID: -2154721395009878796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 135
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c5045770729df50800000000000000
+      internalID: 6906594416534772828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 137
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e945ed5200802c00800000000000000
+      internalID: 873839075363473889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 27
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97630ee96903f5680800000000000000
+      internalID: -8764232926370974087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 75
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffded820fec7b48f0800000000000000
+      internalID: -555212763068240385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 75
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4735bf943b8e2d30800000000000000
+      internalID: 4408614143376308046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 75
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5ecbc3319e65e0800000000000000
+      internalID: -1914433139937223604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 75
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c580fcf494db37780800000000000000
+      internalID: -8686391133698324388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_38
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 75
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f507d0f053514860800000000000000
+      internalID: 7512377260533810675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 76
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ca138232407ec0800000000000000
+      internalID: -3571281719789435405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 75
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c723cbbabc7838510800000000000000
+      internalID: 1550232005574931068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 75
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811f9ada60b256000800000000000000
+      internalID: 28476280331170072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 73
+        width: 27
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52791106271dd400800000000000000
+      internalID: 350461797999407706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 75
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c0150738836cf70800000000000000
+      internalID: 9207108625381788721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 22
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be107e9934d15fd80800000000000000
+      internalID: -8217629768885534229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 14
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04e1845545185aa0800000000000000
+      internalID: -6172159901796539382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 14
+        width: 22
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b0276e01ff3730800000000000000
+      internalID: 3981165639780841197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 14
+        width: 22
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45fc1624f3da1440800000000000000
+      internalID: 4907467789538489677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 14
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624bd17be627637e0800000000000000
+      internalID: -1786114382361676762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 14
+        width: 22
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c2ad25bfa464e0800000000000000
+      internalID: -1989271942701333955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 22
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9396590a38738b940800000000000000
+      internalID: 5312056798957889849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 14
+        width: 22
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b28665cd70277d0800000000000000
+      internalID: -2922264565286163608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 14
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f0c92f4c0dc060800000000000000
+      internalID: 6975244932009226656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_53
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 12
+        width: 22
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1142816bd931650800000000000000
+      internalID: 6202474517233930749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barb_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 12
+        width: 22
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10b5cfb421f72880800000000000000
+      internalID: -8635668620321116133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 16a0d7291769cef4482e815b472dccc6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
